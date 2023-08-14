@@ -33,10 +33,12 @@
   ],
   "users": [
     {
+      "id": 1,
       "email": "radhea@mail.com",
       "password": "radhea"
     },
     {
+      "id": 2,
       "email": "ganang@mail.com",
       "password": "ganang"
     }
