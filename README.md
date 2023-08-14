@@ -47,6 +47,12 @@ Terdapat 4 main events dalam sebuah vue lifecycle:
 
   lifecycle ini akan dijalankan ketika state berubah dan DOM _sudah_ diupdate
 
+## Additional Material
+
+[Vue Computed](https://vuejs.org/guide/essentials/computed.html)
+
+[Vue Watchers](https://vuejs.org/guide/essentials/watchers.html)
+
 ## References
 
 [Lifecycle Hooks Docs](https://vuejs.org/guide/essentials/lifecycle.html)
